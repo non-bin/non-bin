@@ -1,0 +1,5 @@
+- 👋 My name is Alice Jacka
+- 👀 I like open source, and learning
+- 🌱 I’m studying Bachelor of Computer and Network Engineering/Bachelor of Computer Science at RMIT
+- 💞️ I’m looking for frelance or part time work
+- 📫 You can reach me at alice@jacka.net.au
