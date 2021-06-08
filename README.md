@@ -6,7 +6,7 @@
 
 # License
 
-    Unless otherwise specified, all works owned by @non-bin call under AGPL-3.0-or-later
+    Unless otherwise specified, all works owned by @non-bin fall under AGPL-3.0-or-later
     Copyright (C) 2021  Alice Jacka
 
     This program is free software: you can redistribute it and/or modify
