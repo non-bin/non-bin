@@ -1,8 +1,11 @@
-- 👋 My name is Alice Jacka
-- 👀 I like open source, and learning
-- 🌱 I’m studying Bachelor of Computer and Network Engineering/Bachelor of Computer Science at RMIT
-- 💞️ I’m looking for frelance or part time work
-- 📫 You can reach me at alice@jacka.net.au
+- 👋 My name is Alice Jacka, AKA [non-bin][website]
+- 💞️ I like open source, and throwing myself in too deep
+- 🌱 I want to contribute more to open source (I know everyone says that, but that's becausecos it's fun)
+- 📚 I’m studying Bachelor of Computer and Network Engineering/Bachelor of Computer Science at RMIT
+- 👀 I’m looking for frelance or part time work
+- 📫 You can reach me at [alice@jacka.net.au][email]
+
+<img alt="non-bin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=non-bin&count_private=true&show_icons=true&theme=dark&hide_border=true" />
 
 # License
 
@@ -21,3 +24,6 @@
 
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    
+[website]: https://hihello.me/p/71c781e8-9bce-4bbe-923f-bb847fcbbebd "HiHello Card"
+[email]: mailto:alice@jacka.net.au "alice@jacka.net.au"
