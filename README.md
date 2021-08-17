@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/polywock/globalSpeed/issues/109) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-2. 💪 Opened PR [#113](https://github.com/polywock/globalSpeed/pull/113) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-3. 🗣 Commented on [#110](https://github.com/polywock/globalSpeed/issues/110) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-4. 🗣 Commented on [#109](https://github.com/polywock/globalSpeed/issues/109) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-5. 🗣 Commented on [#109](https://github.com/polywock/globalSpeed/issues/109) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+1. 🗣 Commented on [#64](https://github.com/jamesgeorge007/github-activity-readme/issues/64) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 💪 Opened PR [#64](https://github.com/jamesgeorge007/github-activity-readme/pull/64) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#109](https://github.com/polywock/globalSpeed/issues/109) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+4. 💪 Opened PR [#113](https://github.com/polywock/globalSpeed/pull/113) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+5. 🗣 Commented on [#110](https://github.com/polywock/globalSpeed/issues/110) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 <!--END_SECTION:activity-->
 
 ---
