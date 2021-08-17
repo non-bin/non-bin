@@ -1,1 +1,3 @@
-console.log('yass?');
+exports = (globalObject) => {
+
+}
