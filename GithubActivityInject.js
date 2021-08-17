@@ -1,3 +1,1 @@
-exports = (globalObject) => {
-
-}
+console.log('yass?');
