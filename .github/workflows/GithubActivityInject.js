@@ -22,3 +22,5 @@ processEvents = (events) => {
     }
   });
 };
+
+console.log("ummm?");
