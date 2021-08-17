@@ -12,9 +12,21 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: non-bin/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Update README with latest github activity'
           MAX_LINES: 5
+          INJECT: "
+            processEvents = (events) => {
+              // Filter out any boring activity
+              const filtered = events.filter((event) => serializers.hasOwnProperty(event.type))
+
+              foreach
+
+                // We only have five lines to work with
+                .slice(0, MAX_LINES)
+                // Call the serializer to construct a string
+                .map((item) => serializers[item.type](item));
+            }"
