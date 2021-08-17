@@ -18,4 +18,4 @@ jobs:
         with:
           COMMIT_MSG: 'Update README with latest github activity'
           MAX_LINES: 5
-          INJECT: "./GithubActivityInject.js"
+          INJECT: "GithubActivityInject"
