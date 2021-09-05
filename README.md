@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#78](https://github.com/kdrag0n/safetynet-fix/issues/78) in [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
-2. 🗣 Commented on [#115](https://github.com/polywock/globalSpeed/issues/115) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-3. 🗣 Commented on [#64](https://github.com/jamesgeorge007/github-activity-readme/issues/64) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 💪 Opened PR [#64](https://github.com/jamesgeorge007/github-activity-readme/pull/64) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#109](https://github.com/polywock/globalSpeed/issues/109) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+2. 🗣 Commented on [#78](https://github.com/kdrag0n/safetynet-fix/issues/78) in [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
+3. 🗣 Commented on [#115](https://github.com/polywock/globalSpeed/issues/115) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+4. 🗣 Commented on [#64](https://github.com/jamesgeorge007/github-activity-readme/issues/64) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 💪 Opened PR [#64](https://github.com/jamesgeorge007/github-activity-readme/pull/64) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
