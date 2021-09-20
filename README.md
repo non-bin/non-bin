@@ -13,8 +13,8 @@
 1. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 2. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 3. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-4. 🗣 Commented on [#128](https://github.com/polywock/globalSpeed/issues/128) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-5. 🗣 Commented on [#127](https://github.com/polywock/globalSpeed/issues/127) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+4. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+5. 🗣 Commented on [#128](https://github.com/polywock/globalSpeed/issues/128) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 <!--END_SECTION:activity-->
 
 ---
