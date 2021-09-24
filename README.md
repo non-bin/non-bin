@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-2. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-3. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+1. ❗️ Closed issue [#134](https://github.com/polywock/globalSpeed/issues/134) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+2. 🗣 Commented on [#134](https://github.com/polywock/globalSpeed/issues/134) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+3. ❗️ Opened issue [#134](https://github.com/polywock/globalSpeed/issues/134) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 4. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-5. 🗣 Commented on [#128](https://github.com/polywock/globalSpeed/issues/128) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+5. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 <!--END_SECTION:activity-->
 
 ---
