@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#134](https://github.com/polywock/globalSpeed/issues/134) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-2. 🗣 Commented on [#134](https://github.com/polywock/globalSpeed/issues/134) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-3. ❗️ Opened issue [#134](https://github.com/polywock/globalSpeed/issues/134) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-4. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
-5. 🗣 Commented on [#130](https://github.com/polywock/globalSpeed/issues/130) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+1. 🗣 Commented on [#2](https://github.com/bladnman/auto-align/issues/2) in [bladnman/auto-align](https://github.com/bladnman/auto-align)
+2. 🗣 Commented on [#7](https://github.com/bladnman/auto-align/issues/7) in [bladnman/auto-align](https://github.com/bladnman/auto-align)
+3. ❗️ Closed issue [#134](https://github.com/polywock/globalSpeed/issues/134) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+4. 🗣 Commented on [#134](https://github.com/polywock/globalSpeed/issues/134) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+5. ❗️ Opened issue [#134](https://github.com/polywock/globalSpeed/issues/134) in [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 <!--END_SECTION:activity-->
 
 ---
