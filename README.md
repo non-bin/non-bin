@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#794](https://github.com/prasathmani/tinyfilemanager/pull/794) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
-2. 💪 Opened PR [#793](https://github.com/prasathmani/tinyfilemanager/pull/793) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
-3. 🗣 Commented on [#626](https://github.com/prasathmani/tinyfilemanager/issues/626) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
-4. 💪 Opened PR [#792](https://github.com/prasathmani/tinyfilemanager/pull/792) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
-5. 💪 Opened PR [#791](https://github.com/prasathmani/tinyfilemanager/pull/791) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
+1. 💪 Opened PR [#20](https://github.com/OpenJavaCard/openjavacard-ndef/pull/20) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
+2. ❌ Closed PR [#19](https://github.com/OpenJavaCard/openjavacard-ndef/pull/19) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
+3. 💪 Opened PR [#19](https://github.com/OpenJavaCard/openjavacard-ndef/pull/19) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
+4. 💪 Opened PR [#794](https://github.com/prasathmani/tinyfilemanager/pull/794) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
+5. 💪 Opened PR [#793](https://github.com/prasathmani/tinyfilemanager/pull/793) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
 <!--END_SECTION:activity-->
 
 ---
