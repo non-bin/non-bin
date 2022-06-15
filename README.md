@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/OpenJavaCard/openjavacard-ndef/pull/20) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
-2. ❌ Closed PR [#19](https://github.com/OpenJavaCard/openjavacard-ndef/pull/19) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
-3. 💪 Opened PR [#19](https://github.com/OpenJavaCard/openjavacard-ndef/pull/19) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
-4. 💪 Opened PR [#794](https://github.com/prasathmani/tinyfilemanager/pull/794) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
-5. 💪 Opened PR [#793](https://github.com/prasathmani/tinyfilemanager/pull/793) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
+1. ❗️ Opened issue [#13122](https://github.com/netdata/netdata/issues/13122) in [netdata/netdata](https://github.com/netdata/netdata)
+2. 💪 Opened PR [#20](https://github.com/OpenJavaCard/openjavacard-ndef/pull/20) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
+3. ❌ Closed PR [#19](https://github.com/OpenJavaCard/openjavacard-ndef/pull/19) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
+4. 💪 Opened PR [#19](https://github.com/OpenJavaCard/openjavacard-ndef/pull/19) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
+5. 💪 Opened PR [#794](https://github.com/prasathmani/tinyfilemanager/pull/794) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
 <!--END_SECTION:activity-->
 
 ---
