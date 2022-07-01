@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com/Baizey/UniversalAutomaticCurrencyConverter/issues/47) in [Baizey/UniversalAutomaticCurrencyConverter](https://github.com/Baizey/UniversalAutomaticCurrencyConverter)
-2. 💪 Opened PR [#3](https://github.com/dcflachs/swapfile_plugin/pull/3) in [dcflachs/swapfile_plugin](https://github.com/dcflachs/swapfile_plugin)
-3. 💪 Opened PR [#2](https://github.com/dcflachs/swapfile_plugin/pull/2) in [dcflachs/swapfile_plugin](https://github.com/dcflachs/swapfile_plugin)
-4. ❗️ Opened issue [#13122](https://github.com/netdata/netdata/issues/13122) in [netdata/netdata](https://github.com/netdata/netdata)
-5. 💪 Opened PR [#20](https://github.com/OpenJavaCard/openjavacard-ndef/pull/20) in [OpenJavaCard/openjavacard-ndef](https://github.com/OpenJavaCard/openjavacard-ndef)
+1. ❗️ Opened issue [#423](https://github.com/netdata/dashboard/issues/423) in [netdata/dashboard](https://github.com/netdata/dashboard)
+2. ❗️ Opened issue [#47](https://github.com/Baizey/UniversalAutomaticCurrencyConverter/issues/47) in [Baizey/UniversalAutomaticCurrencyConverter](https://github.com/Baizey/UniversalAutomaticCurrencyConverter)
+3. 💪 Opened PR [#3](https://github.com/dcflachs/swapfile_plugin/pull/3) in [dcflachs/swapfile_plugin](https://github.com/dcflachs/swapfile_plugin)
+4. 💪 Opened PR [#2](https://github.com/dcflachs/swapfile_plugin/pull/2) in [dcflachs/swapfile_plugin](https://github.com/dcflachs/swapfile_plugin)
+5. ❗️ Opened issue [#13122](https://github.com/netdata/netdata/issues/13122) in [netdata/netdata](https://github.com/netdata/netdata)
 <!--END_SECTION:activity-->
 
 ---
