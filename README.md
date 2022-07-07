@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/non-bin/test/issues/1) in [non-bin/test](https://github.com/non-bin/test)
-2. ❗️ Opened issue [#151](https://github.com/vhqtvn/VHEditor-Android/issues/151) in [vhqtvn/VHEditor-Android](https://github.com/vhqtvn/VHEditor-Android)
-3. ❗️ Opened issue [#150](https://github.com/vhqtvn/VHEditor-Android/issues/150) in [vhqtvn/VHEditor-Android](https://github.com/vhqtvn/VHEditor-Android)
-4. ❗️ Opened issue [#423](https://github.com/netdata/dashboard/issues/423) in [netdata/dashboard](https://github.com/netdata/dashboard)
-5. ❗️ Opened issue [#47](https://github.com/Baizey/UniversalAutomaticCurrencyConverter/issues/47) in [Baizey/UniversalAutomaticCurrencyConverter](https://github.com/Baizey/UniversalAutomaticCurrencyConverter)
+1. ❗️ Opened issue [#29](https://github.com/non-bin/encrypted-cards/issues/29) in [non-bin/encrypted-cards](https://github.com/non-bin/encrypted-cards)
+2. ❗️ Opened issue [#28](https://github.com/non-bin/encrypted-cards/issues/28) in [non-bin/encrypted-cards](https://github.com/non-bin/encrypted-cards)
+3. ❗️ Opened issue [#27](https://github.com/non-bin/encrypted-cards/issues/27) in [non-bin/encrypted-cards](https://github.com/non-bin/encrypted-cards)
+4. ❗️ Opened issue [#26](https://github.com/non-bin/encrypted-cards/issues/26) in [non-bin/encrypted-cards](https://github.com/non-bin/encrypted-cards)
+5. ❗️ Opened issue [#25](https://github.com/non-bin/encrypted-cards/issues/25) in [non-bin/encrypted-cards](https://github.com/non-bin/encrypted-cards)
 <!--END_SECTION:activity-->
 
 ---
