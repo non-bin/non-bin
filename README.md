@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/notPlancha/Volume-Profiles-Spicetify-Extension-v2/issues/2) in [notPlancha/Volume-Profiles-Spicetify-Extension-v2](https://github.com/notPlancha/Volume-Profiles-Spicetify-Extension-v2)
-2. 🗣 Commented on [#151](https://github.com/vhqtvn/VHEditor-Android/issues/151) in [vhqtvn/VHEditor-Android](https://github.com/vhqtvn/VHEditor-Android)
-3. ❗️ Opened issue [#29](https://github.com/non-bin/encrypted-cards/issues/29) in [non-bin/encrypted-cards](https://github.com/non-bin/encrypted-cards)
-4. ❗️ Opened issue [#28](https://github.com/non-bin/encrypted-cards/issues/28) in [non-bin/encrypted-cards](https://github.com/non-bin/encrypted-cards)
-5. ❗️ Opened issue [#27](https://github.com/non-bin/encrypted-cards/issues/27) in [non-bin/encrypted-cards](https://github.com/non-bin/encrypted-cards)
+1. 💪 Opened PR [#238](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/238) in [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+2. 🗣 Commented on [#235](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/issues/235) in [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+3. 🗣 Commented on [#235](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/issues/235) in [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+4. 🗣 Commented on [#235](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/issues/235) in [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+5. 🗣 Commented on [#1603](https://github.com/flipperdevices/flipperzero-firmware/issues/1603) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
 <!--END_SECTION:activity-->
 
 ---
