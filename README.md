@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1627](https://github.com/flipperdevices/flipperzero-firmware/pull/1627) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
-2. 🗣 Commented on [#1627](https://github.com/flipperdevices/flipperzero-firmware/issues/1627) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
-3. 🗣 Commented on [#252](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/issues/252) in [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
-4. 🗣 Commented on [#254](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/issues/254) in [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
-5. 🗣 Commented on [#252](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/issues/252) in [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+1. ❌ Closed PR [#2](https://github.com/non-bin/FlipperRogueMaster/pull/2) in [non-bin/FlipperRogueMaster](https://github.com/non-bin/FlipperRogueMaster)
+2. ❌ Closed PR [#1](https://github.com/non-bin/FlipperRogueMaster/pull/1) in [non-bin/FlipperRogueMaster](https://github.com/non-bin/FlipperRogueMaster)
+3. 💪 Opened PR [#258](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/258) in [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+4. ❌ Closed PR [#1627](https://github.com/flipperdevices/flipperzero-firmware/pull/1627) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+5. 🗣 Commented on [#1627](https://github.com/flipperdevices/flipperzero-firmware/issues/1627) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
 <!--END_SECTION:activity-->
 
 ---
