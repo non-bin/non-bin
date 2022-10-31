@@ -1,7 +1,7 @@
 - 👋 My name is Alice Jacka (She/Her), AKA [non-bin][website]
 - 💞️ I like open source, and throwing myself in too deep
-- 🌱 I want to contribute more to open source (I know everyone says that, but that's becausecos it's fun)
-- 📚 I’m studying Bachelor of Computer and Network Engineering/Bachelor of Computer Science at RMIT
+- 🌱 I want to contribute more to open source (I know everyone says that, but that's because it's fun)
+- 📚 I’m studying a double degree of Computer Science, and Computer and Network Engineering at RMIT
 - 👀 I’m looking for frelance or part time work
 - 📫 You can reach me at [alice@jacka.net.au][email]
 
