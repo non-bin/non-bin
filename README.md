@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/notPlancha/Volume-Profiles-Spicetify-Extension-v2/issues/2) in [notPlancha/Volume-Profiles-Spicetify-Extension-v2](https://github.com/notPlancha/Volume-Profiles-Spicetify-Extension-v2)
-2. 🗣 Commented on [#1634](https://github.com/flipperdevices/flipperzero-firmware/issues/1634) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
-3. 🗣 Commented on [#262](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/issues/262) in [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
-4. 💪 Opened PR [#3](https://github.com/non-bin/FlipperRogueMaster/pull/3) in [non-bin/FlipperRogueMaster](https://github.com/non-bin/FlipperRogueMaster)
-5. 💪 Opened PR [#1639](https://github.com/flipperdevices/flipperzero-firmware/pull/1639) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+1. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+2. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+3. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+4. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+5. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
 <!--END_SECTION:activity-->
 
 
