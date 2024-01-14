@@ -10,7 +10,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+1. 🗣 Commented on [#10940](https://github.com/prusa3d/PrusaSlicer/issues/10940) in [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
 2. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
 3. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
 4. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
