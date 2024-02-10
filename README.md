@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/AlexVerrico/octoprint-stats/pull/42) in [AlexVerrico/octoprint-stats](https://github.com/AlexVerrico/octoprint-stats)
-2. 🗣 Commented on [#10940](https://github.com/prusa3d/PrusaSlicer/issues/10940) in [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
-3. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
-4. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
-5. 🗣 Commented on [#179](https://github.com/chiteroman/PlayIntegrityFix/issues/179) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+1. ❗️ Opened issue [#256](https://github.com/chiteroman/PlayIntegrityFix/issues/256) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+2. ❗️ Opened issue [#255](https://github.com/chiteroman/PlayIntegrityFix/issues/255) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+3. 🗣 Commented on [#254](https://github.com/chiteroman/PlayIntegrityFix/issues/254) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+4. 💪 Opened PR [#42](https://github.com/AlexVerrico/octoprint-stats/pull/42) in [AlexVerrico/octoprint-stats](https://github.com/AlexVerrico/octoprint-stats)
+5. 🗣 Commented on [#10940](https://github.com/prusa3d/PrusaSlicer/issues/10940) in [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
 <!--END_SECTION:activity-->
 
 
