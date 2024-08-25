@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15501](https://github.com/Jackett/Jackett/pull/15501) in [Jackett/Jackett](https://github.com/Jackett/Jackett)
-2. ❗️ Opened issue [#7](https://github.com/Garr-Garr/OctoPrint-InternalSlicer/issues/7) in [Garr-Garr/OctoPrint-InternalSlicer](https://github.com/Garr-Garr/OctoPrint-InternalSlicer)
-3. ❗️ Opened issue [#88](https://github.com/ventoy/vtoyboot/issues/88) in [ventoy/vtoyboot](https://github.com/ventoy/vtoyboot)
-4. 🗣 Commented on [#330](https://github.com/chiteroman/PlayIntegrityFix/issues/330) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
-5. 💪 Opened PR [#5](https://github.com/ffmwheel/rewheel-main/pull/5) in [ffmwheel/rewheel-main](https://github.com/ffmwheel/rewheel-main)
+1. ❗️ Opened issue [#1009](https://github.com/CTCaer/hekate/issues/1009) in [CTCaer/hekate](https://github.com/CTCaer/hekate)
+2. 💪 Opened PR [#15501](https://github.com/Jackett/Jackett/pull/15501) in [Jackett/Jackett](https://github.com/Jackett/Jackett)
+3. ❗️ Opened issue [#7](https://github.com/Garr-Garr/OctoPrint-InternalSlicer/issues/7) in [Garr-Garr/OctoPrint-InternalSlicer](https://github.com/Garr-Garr/OctoPrint-InternalSlicer)
+4. ❗️ Opened issue [#88](https://github.com/ventoy/vtoyboot/issues/88) in [ventoy/vtoyboot](https://github.com/ventoy/vtoyboot)
+5. 🗣 Commented on [#330](https://github.com/chiteroman/PlayIntegrityFix/issues/330) in [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
 <!--END_SECTION:activity-->
 
 
