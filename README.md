@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1009](https://github.com/CTCaer/hekate/issues/1009) in [CTCaer/hekate](https://github.com/CTCaer/hekate)
-2. ❗️ Closed issue [#1009](https://github.com/CTCaer/hekate/issues/1009) in [CTCaer/hekate](https://github.com/CTCaer/hekate)
-3. ❗️ Opened issue [#1009](https://github.com/CTCaer/hekate/issues/1009) in [CTCaer/hekate](https://github.com/CTCaer/hekate)
-4. 💪 Opened PR [#15501](https://github.com/Jackett/Jackett/pull/15501) in [Jackett/Jackett](https://github.com/Jackett/Jackett)
-5. ❗️ Opened issue [#7](https://github.com/Garr-Garr/OctoPrint-InternalSlicer/issues/7) in [Garr-Garr/OctoPrint-InternalSlicer](https://github.com/Garr-Garr/OctoPrint-InternalSlicer)
+1. 🗣 Commented on [#17051](https://github.com/zed-industries/zed/issues/17051) in [zed-industries/zed](https://github.com/zed-industries/zed)
+2. 🗣 Commented on [#834](https://github.com/zed-industries/zed/issues/834) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. ❗️ Opened issue [#17051](https://github.com/zed-industries/zed/issues/17051) in [zed-industries/zed](https://github.com/zed-industries/zed)
+4. 🗣 Commented on [#1009](https://github.com/CTCaer/hekate/issues/1009) in [CTCaer/hekate](https://github.com/CTCaer/hekate)
+5. ❗️ Closed issue [#1009](https://github.com/CTCaer/hekate/issues/1009) in [CTCaer/hekate](https://github.com/CTCaer/hekate)
 <!--END_SECTION:activity-->
 
 
