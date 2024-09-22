@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3536](https://github.com/zellij-org/zellij/issues/3536) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-2. 💪 Opened PR [#1470](https://github.com/nvbn/thefuck/pull/1470) in [nvbn/thefuck](https://github.com/nvbn/thefuck)
-3. 🗣 Commented on [#17051](https://github.com/zed-industries/zed/issues/17051) in [zed-industries/zed](https://github.com/zed-industries/zed)
-4. 🗣 Commented on [#834](https://github.com/zed-industries/zed/issues/834) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. ❗️ Opened issue [#17051](https://github.com/zed-industries/zed/issues/17051) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. ❗️ Opened issue [#3432](https://github.com/nvm-sh/nvm/issues/3432) in [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+2. 🗣 Commented on [#3536](https://github.com/zellij-org/zellij/issues/3536) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+3. 💪 Opened PR [#1470](https://github.com/nvbn/thefuck/pull/1470) in [nvbn/thefuck](https://github.com/nvbn/thefuck)
+4. 🗣 Commented on [#17051](https://github.com/zed-industries/zed/issues/17051) in [zed-industries/zed](https://github.com/zed-industries/zed)
+5. 🗣 Commented on [#834](https://github.com/zed-industries/zed/issues/834) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->
 
 
